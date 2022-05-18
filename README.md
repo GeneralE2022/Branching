@@ -7,3 +7,6 @@
 * git log - list commit history of current branch
 
 ### Branching Commands
+* git branch - list local branches
+* git branch branchName - create local branch branchName
+* git checkout branchName - ...
