@@ -5,3 +5,5 @@
 * git status - show status of local working directory
 * git add . - stage local changes for commit
 * git log - list commit history of current branch
+
+### Branching Commands
